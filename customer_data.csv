@@ -1,4 +1,4 @@
-Customer ID,First Name,Last Name,Email,Phone Number,Address
+CustomerID,First Name,Last Name,Email,Phone Number,Address
 1001, John ,Smith,john.smith@example.com,555-123-4567,  123 Main St
 1002,Alice,JOHNSON,alice.johnson@example.com,  555-987-6543 ,456 Elm St
 1003,  Michael ,Williams,michael.williams@example.com,  555-555-5555,  789 Oak St
