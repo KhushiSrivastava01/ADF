@@ -1,0 +1,11 @@
+CustomerID,First Name,Last Name,Email,Phone Number,Address
+1001, John ,Smith,john.smith@example.com,555-123-4567,  123 Main St
+1002,Alice,JOHNSON,alice.johnson@example.com,  555-987-6543 ,456 Elm St
+1003,  Michael ,Williams,michael.williams@example.com,  555-555-5555,  789 Oak St
+1004,Emily,Clark,emily.clark@example.com,555-333-2222,  321 Pine St 
+1005,David, Anderson,david.anderson@example.com,  555-888-9999,654 Birch St
+1006, Sarah ,White,sarah.white@example.com,555-777-1212,  987 Cedar St
+1007,JAMES,Miller,james.miller@example.com, 555-666-4444,  222 Willow St
+1008,Emma ,HALL,emma.hall@example.com, 555-222-3333,  555 Maple St 
+1009,Robert,Martin,robert.martin@example.com,555-111-0000,  888 Walnut St
+1010,Olivia,Young,olivia.young@example.com,555-444-7777, 111 Pine St
